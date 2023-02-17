@@ -1,2 +1,3 @@
-# sample
-Sample project
+# Job Freak
+Assignment 1
+
